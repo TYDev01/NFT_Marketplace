@@ -20,7 +20,7 @@ const Hero = () => {
   }, [images.length]);
 
   return (
-    <div className='pt-25 pb-25 bg-[#010101]'>
+    <div className='pt-25 pb-25 bg-[#0d0611]'>
       <div className='flex items-center justify-around'>
         <div className=''>
           <h2 className={`${style.adFont} text-white`}>
